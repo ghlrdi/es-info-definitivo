@@ -64,8 +64,7 @@ Indicazioni su come accedere e utilizzare la documentazione del codice sorgente,
 Descrizione dei test effettuati sul sistema per verificare il corretto funzionamento e la conformità ai requisiti specificati.
 
 ## Deploy e Manutenzione
-Descrizione del processo di deploy del sistema, inclusi eventuali passaggi necessari per configurare l'ambiente di produzione e gestire la manutenzione del sistema.
-
+ho provato a fare il deployment su pythonAnywhere, creato la webapp e configurato il virtualenvironment, installato le librerie e copiato i file che avevo sul progetto di github, dandomi errori però sul codice, anche se lo script è corretto.
 ## Conclusioni
 il progetto, in conclusione, ha avuto un esito positivo ma non ho completato tutti gli obiettivi: non ho utilizzato GitHub per questo progetto principalmente perchè a causa del problema dell'api col proxy, ho lavorato quasi solamente su una macchina, altro motivo è stato anche il fatto che quando provavo a committare mi dava problemi con le brenches e, avendo il pc per un tempo limitato e non essendo fondamentale per lo sviluppo del mio progetto ho deciso di procastinare il problema. 
 
